@@ -11,8 +11,7 @@ Built from real-world ITIL-aligned operations in cloud and hybrid environments.
 ```
 itil-runbooks-templates/
 ├── runbooks/
-│   ├── backup_incident_response.md     # Step-by-step backup failure response
-│   └── restore_procedure.md            # Full restore procedure runbook
+│   └── backup_incident_response.md     # Step-by-step backup failure response
 ├── templates/
 │   ├── change_request_template.md      # ITIL Change Request template
 │   └── post_incident_report.md         # Post-Incident Report (PIR) template
@@ -28,7 +27,6 @@ itil-runbooks-templates/
 | Document | When |
 |----------|------|
 | Backup Incident Response | Backup job fails or snapshot is missing |
-| Restore Procedure | Data recovery requested or DR exercise |
 | Change Request Template | Any change to backup config or infrastructure |
 | Post-Incident Report | After any P1/P2 backup-related incident |
 | Restore Test Checklist | Weekly/monthly restore validation exercises |
