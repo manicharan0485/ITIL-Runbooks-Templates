@@ -1,8 +1,8 @@
 # 📋 ITIL Runbooks & Templates
 
-Production-ready ITIL runbooks, change request templates, restore test checklists, and post-incident report templates for IT infrastructure and backup operations.
+ITIL-aligned runbooks, change request templates, restore test checklists, and post-incident report templates for IT infrastructure and backup operations.
 
-Built from real-world ITIL-aligned operations in cloud and hybrid environments.
+> 🧪 **Reference / lab project.** Original practice code written to demonstrate the approach. It is not taken from an employer's codebase. Review and adapt before using it in your own environment.
 
 ---
 
